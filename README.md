@@ -1,6 +1,4 @@
-# manim-repl
-
-[![Run on Repl.it](https://repl.it/badge/github/lunaroyster/manim-repl)](https://repl.it/github/lunaroyster/manim-repl)
+# manim-repl [![Run on Repl.it](https://repl.it/badge/github/lunaroyster/manim-repl)](https://repl.it/github/lunaroyster/manim-repl)
 
 ## Instructions to run on Repl.it
 
