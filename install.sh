@@ -1,5 +1,5 @@
 echo "Installing in $PWD"
-git clone https://github.com/3b1b/manim
+git clone https://github.com/3b1b/manim --depth=1
 wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz -O $PWD/ffmpeg.tar.xz
 mkdir $PWD/ffmpeg
 tar xf ffmpeg.tar.xz -C $PWD/ffmpeg --strip-components=1
