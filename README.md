@@ -14,5 +14,6 @@ Note: The manim command in step 3 may seem to end in an error: `No such file or 
 ## Next steps:
 
 * Build a tiny webserver to browse and display math animations at the repl.run url
-* I think the installation step above can be removed. It's not quite the same as the 'run' command (which we could add to the .replit file), which should run our webserver.
 * Consider if there's a way to save and stream animations that doesn't require rendering to a video file
+
+[Take a look at the issues here](https://github.com/lunaroyster/manim-repl/issues)
