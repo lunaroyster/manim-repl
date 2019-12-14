@@ -5,5 +5,5 @@ mkdir $PWD/ffmpeg
 tar xf ffmpeg.tar.xz -C $PWD/ffmpeg --strip-components=1
 chmod 777 $PWD/ffmpeg/ffmpeg
 sed -i "s|^FFMPEG_BIN = \"ffmpeg\"$|# FFMPEG_BIN = \"ffmpeg\"\nFFMPEG_BIN = \"$PWD\/ffmpeg\/ffmpeg\"|g" $PWD/manim/manimlib/constants.py
-python -m pip install -r $PWD/manim/requirements.txt
+python -m pip install -r $PWD/requirements.txt
 echo 'installed=true' > manim-repl.config
