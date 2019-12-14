@@ -2,7 +2,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/lunaroyster/manim-repl)](https://repl.it/github/lunaroyster/manim-repl)
 
-## Instructions on Repl.it
+## Instructions to run on Repl.it
 
 1. If you haven't already, click the 'Run on Repl' button above to launch the project on repl.it
 
