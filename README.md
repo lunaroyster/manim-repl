@@ -2,11 +2,9 @@
 
 ## Instructions to run on Repl.it
 
-1. If you haven't already, click the 'Run on Repl' button above to launch the project on repl.it
+1. **Run:** Click the 'Run on Repl' button above to launch the project on repl.it. That installs manim and other dependencies.
 
-2. Use `Ctrl + Shift + S` to open the shell, and type `bash install.sh`
-
-3. Once that completes, you can begin using manim. Here's an example command: `python ./manim/manim.py -l ./manim/example_scenes.py SquareToCircle`. That renders a video, which you can find at media/videos/example_scenes/480p15/SquareToCircle.mp4
+2. **Use:** Once installation completes, you can begin using manim. Here's an example command: `python ./manim/manim.py -l ./manim/example_scenes.py SquareToCircle`. That renders a video, which you can find in the `media` folder.
 
 ![The Rendered Video](https://i.imgur.com/MWBshCh.gif)
 
