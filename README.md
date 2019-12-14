@@ -8,7 +8,7 @@
 
 ![The Rendered Video](https://i.imgur.com/MWBshCh.gif)
 
-Note: The manim command in step 3 may seem to end in an error: `No such file or directory: 'xdg-open': 'xdg-open'`. That's okay, the render should still have worked. The file explorer might take a bit to update with the new directory structure.
+Note: The file explorer might take a moment to update the new directory structure.
 
 
 ## Next steps:
